@@ -28,4 +28,4 @@ As of right now, we do not have any Discord/Telegram servers. If you find one fo
 # Disclaimer
 Discord is known to rate-limit IP's to stop webhook spamming. This also may lead to account suspension. I will not be responsible for your actions. Read about Discord [Terms Of service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines)
 
-MultiHook was created as a proof of concept that Discord webhooks can be automated.
+MultiHook was created as a proof of concept
